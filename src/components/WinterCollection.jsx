@@ -15,28 +15,28 @@ const WinterCollection = () => {
 					className='mySwiper flex items-center justify-between my-auto'
 				>
 					<SwiperSlide className='lg:flex cursor-pointer items-center hover:scale-105 transition-all duration-300'>
-						<Product image={'/public/ItemClothes.jpg'} category={'Зимняя'} />
+						<Product image={'/ItemClothes.jpg'} category={'Зимняя'} />
 					</SwiperSlide>
 					<SwiperSlide className='lg:flex cursor-pointer items-center hover:scale-105 transition-all duration-300'>
-						<Product image={'/public/ItemClothes.jpg'} category={'Зимняя'} />
+						<Product image={'/ItemClothes.jpg'} category={'Зимняя'} />
 					</SwiperSlide>
 					<SwiperSlide className='lg:flex cursor-pointer items-center hover:scale-105 transition-all duration-300'>
-						<Product image={'/public/ItemClothes.jpg'} category={'Зимняя'} />
+						<Product image={'/ItemClothes.jpg'} category={'Зимняя'} />
 					</SwiperSlide>
 					<SwiperSlide className='lg:flex cursor-pointer items-center hover:scale-105 transition-all duration-300'>
-						<Product image={'/public/ItemClothes.jpg'} category={'Зимняя'} />
+						<Product image={'/ItemClothes.jpg'} category={'Зимняя'} />
 					</SwiperSlide>
 					<SwiperSlide className='lg:flex cursor-pointer items-center hover:scale-105 transition-all duration-300'>
-						<Product image={'/public/ItemClothes.jpg'} category={'Зимняя'} />
+						<Product image={'/ItemClothes.jpg'} category={'Зимняя'} />
 					</SwiperSlide>
 					<SwiperSlide className='lg:flex cursor-pointer items-center hover:scale-105 transition-all duration-300'>
-						<Product image={'/public/ItemClothes.jpg'} category={'Зимняя'} />
+						<Product image={'/ItemClothes.jpg'} category={'Зимняя'} />
 					</SwiperSlide>
 					<SwiperSlide className='lg:flex cursor-pointer items-center hover:scale-105 transition-all duration-300'>
-						<Product image={'/public/ItemClothes.jpg'} category={'Зимняя'} />
+						<Product image={'/ItemClothes.jpg'} category={'Зимняя'} />
 					</SwiperSlide>
 					<SwiperSlide className='lg:flex cursor-pointer items-center hover:scale-105 transition-all duration-300'>
-						<Product image={'/public/ItemClothes.jpg'} category={'Зимняя'} />
+						<Product image={'/ItemClothes.jpg'} category={'Зимняя'} />
 					</SwiperSlide>
 				</Swiper>
 			</div>

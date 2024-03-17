@@ -16,7 +16,7 @@ const Slider = () => {
 					</div>
 					<div className='absolute -z-10'>
 						<img
-							src={'/public/sliderImg1.png'}
+							src={'/sliderImg1.png'}
 							className='object-fill w-[350px] h-[300px] md:!w-[1700px] md:!h-[500px]'
 							alt='Slider Image 1'
 						/>
@@ -33,7 +33,7 @@ const Slider = () => {
 					</div>
 					<div className='absolute -z-10'>
 						<img
-							src={'/public/sliderImg2.png'}
+							src={'/sliderImg2.png'}
 							className='object-fill w-[350px] h-[300px] md:!w-[1700px] md:!h-[500px]'
 							alt='Slider Image 2'
 						/>
